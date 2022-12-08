@@ -23,5 +23,5 @@ button {
   cursor: pointer;
 }
 .gallery{
-  display: grid;
+  display: flex;
 }
