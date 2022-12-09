@@ -19,3 +19,4 @@ for (const image of images) {
   markup += `<li><img src = "${image.url}" alt = "${image.alt}" width="360"/></li>`
 }
  galleryList.insertAdjacentHTML("afterbegin", markup)
+
